@@ -1,0 +1,38 @@
+/*
+
+npm i <github_org>/<repo_name>#<version>
+npm i expressjs/express#4.14.0
+
+.Will report what will be installed without actually installing them.
+npm i <package> --dry-run 
+
+.Display installed packages information
+npm ls --depth=0
+npm ll --depth=0
+
+.Saves to production dependencies
+npm i -S axios
+.Saves to development dependencies
+npm i -D babel-cli
+.Saves optional dependencies
+npm i -O nodemon
+
+npm update 
+
+.List configuration
+npm config list 
+.Set default author email to value
+npm config set init-author-email "hansel0691@gmail.com"
+npm config delete init-author-email
+
+
+.Search for package with name containing value
+npm search <value>
+.Open package's home page 
+npm home <package>
+.Open package's repo
+npm repo <package>
+
+npm xmas
+
+*/

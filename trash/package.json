@@ -1,0 +1,21 @@
+{
+  "name": "trash-js",
+  "version": "1.0.0",
+  "description": "Node trashing",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "express": "^4.17.1",
+    "hansel-frame-print": "^1.0.0",
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest",
+    "check": "eslint server.js"
+  },
+  "author": "Hansel Garcia <hansel0691@gmail.com>",
+  "license": "ISC"
+}
