@@ -10,7 +10,7 @@
     "dependencies": {
         "express": "^4.17.1",
         "hansel-frame-print": "^1.0.0",
-        "lodash": "^4.17.15"
+        "lodash": "^4.17.19"
     },
     "devDependencies": {
         "nodemon": "^1.19.1"
